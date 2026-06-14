@@ -1,15 +1,10 @@
 # Hi, I'm Youri
 
-I build lightweight tools that turn repetitive workflows into faster, cleaner actions.
-
-Right now I’m focused on:
-
-- Chrome extensions and browser automation
-- Google Sheets workflows
-- Small JavaScript tools that save clicks and time
+I build workflow automation tools that turn repetitive browser, spreadsheet, and visual review tasks into faster one-click processes.
 
 Recent project:
 
-- [One-Click Row Link Opener](https://github.com/thesiyonara/one-click-row-link-opener) — a Chrome extension that opens links from selected Google Sheets rows, adds an in-sheet row button, supports `Cmd+E`, and groups opened tabs.
+- [One-Click Row Link Opener](https://github.com/thesiyonara/one-click-row-link-opener) — Chrome extension for opening links from selected Google Sheets rows, with an in-sheet button, keyboard shortcut support, and tab grouping.
+- Image Comparison Tool — visual QA tool for comparing outputs side by side and speeding up review decisions.
 
-I like building practical things that make everyday work feel smoother.
+I’m especially interested in small tools that remove friction from real work: fewer clicks, faster reviews, and cleaner handoffs.
